@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Crossfade more divs</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css?<?=date('sm')?>" />
 <script src="jquery-1.7.1.min.js"></script>
@@ -21,8 +21,10 @@
 						<a href="#2" class="ht" data-slide="2" style="top:40%; left:-2.5%"></a>
 					</div>
 
-					<h2>Seite 1</h2>
-					<div class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					<h2>Seite 1 ----</h2>
+					<div class="copy">
+						Second branch
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</div>
 				</div>
 
@@ -36,7 +38,7 @@
 
 					<h2>Seite 2</h2>
 					<div class="copy">
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non dum diu dum
 					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
 					<div class="copy">
 					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
